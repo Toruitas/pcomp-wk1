@@ -33,6 +33,7 @@ How-to-play images
 ---
 
 Video of a play-through (Click to view on YouTube):
+
 [![GAMEPLAY VIDEO](https://i9.ytimg.com/vi/gqpZJV6mhek/mqdefault.jpg?time=1570394857301&sqp=CMyk6ewF&rs=AOn4CLBayOu7qrWswHx5CyTSdRDnxaQSyA)](https://youtu.be/gqpZJV6mhek "GAMEPLAY VIDEO")
 
 1. Click to start
@@ -46,3 +47,5 @@ Video of a play-through (Click to view on YouTube):
 
 4. Scores flash after each round
 ![Scores](https://github.com/Toruitas/pcomp-wk1/blob/master/4_display_scores.JPG)
+
+5. Another round starts automatically up to the max number of rounds - default is 7.
